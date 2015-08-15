@@ -1,0 +1,2 @@
+# HackThePlanet
+hackathon at hacktheplanet
